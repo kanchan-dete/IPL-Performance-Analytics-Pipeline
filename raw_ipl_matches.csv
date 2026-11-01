@@ -1,0 +1,6 @@
+match_id,inning,batting_team,bowling_team,batsman,bowler,runs_scored,is_wicket,venue
+335982,1,Kolkata Knight Riders,Royal Challengers Bangalore,SC Ganguly,P Kumar,0,0,M Chinnaswamy Stadium
+335982,1,Kolkata Knight Riders,Royal Challengers Bangalore,BB McCullum,Z Khan,4,0,M Chinnaswamy Stadium
+335982,1,Kolkata Knight Riders,Royal Challengers Bangalore,BB McCullum,P Kumar,6,0,M Chinnaswamy Stadium
+335983,2,Chennai Super Kings,Mumbai Indians,ML Hayden,SL Malinga,1,0,Wankhede Stadium
+335983,2,Chennai Super Kings,Mumbai Indians,MS Dhoni,Harbhajan Singh,4,0,Wankhede Stadium
